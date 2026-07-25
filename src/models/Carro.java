@@ -9,5 +9,9 @@ package models;
  * @author pc
  */
 public class Carro {
-    
+
+    private int idCarro;
+    private String marca;
+    private String modelo;
+
 }
