@@ -9,5 +9,8 @@ package models;
  * @author pc
  */
 public class NewClass {
+    private String id_Clase;
     
+    
+            
 }
